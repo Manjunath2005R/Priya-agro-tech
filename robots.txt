@@ -1,5 +1,4 @@
-return (
-    <section id="about" className="py-24 bg-white">
-      <div className="max-w-7xl mx-auto px-6">
-        <div className="text-center max-w-3xl mx-auto mb-16">
-          <motion.h2
+User-agent: *
+Allow: /
+
+Sitemap: https://priya-agro-tech-industries.vercel.app/sitemap.xml
